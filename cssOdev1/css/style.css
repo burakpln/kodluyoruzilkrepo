@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 6px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.9rem;    
+    line-height: 1.5;
+    text-align: center;
+    background-color: #66757F;
+}
+
+a{
+    text-decoration: none;
+}
+header{
+    height: 45rem;
+    width: auto;
+
+}
+header .bg-image{
+    position: absolute;
+    background-image: url(https://picsum.photos/1920/1080);
+    background-size: cover;
+    opacity: .3;
+    height: 45rem;
+    width: 100%;
+    background-position: center;
+    z-index: -1;    
+}
+header .content{
+    padding: 7rem;
+    color: #ffffff;
+    font-weight: 700;
+
+}
+.content h1{
+    font-size: 3em;
+}
+.btn{
+    display: inline-block;
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    padding: 2.1rem;
+    border: 1px solid #cccccc; 
+    background-color: #66757F;
+    color: #ffffff;
+    margin-top: 2%;
+    font-weight: 500;
+    font-size: 1.2em;
+    transition: all .3s ;
+}
+.btn:hover{
+    background-color: #E1E8ED;
+    color: #66757F;
+}
+#section-a{
+    background-color: #E1E8ED;
+    color: #292F33;
+    padding: 3.2rem 0;
+}
+#section-b{
+    padding: 2%;
+}
+#section-b ul li{
+    list-style: none;
+    background-color: #E1E8ED;
+    margin-bottom: 2rem;
+}
+#section-b img{
+    width: 100%;
+    height: auto;
+}
+.col-content{
+    padding: 2rem;
+}
+
+#section-c{
+    background-color: #CCD6DD;
+    height: 18rem;
+    padding: 6rem 0;
+}
+#section-c .content{
+    font-weight: 800;
+}
+.contact{
+    background-color: #8bc6f4;
+    height: 18rem;
+    padding: 6rem 0;
+    font-weight: 800;
+    }
+.about{
+    background-color: #55ACEE ;
+    height: 18rem;
+    padding: 6rem 0;
+    font-weight: 800;
+}
+.bottom{
+    background-color: #000000 ;
+    height: 10rem;
+    padding: 4rem 0;
+    font-weight: 400;
+    color: #E1E8ED;
+
+}
+.bottom a{
+    text-decoration: none;
+    color: #E1E8ED;
+    margin-left: 1rem;
+}
+
+@media screen and (min-width:800px){
+    html{
+        font-size: 7px;
+    }
+    .btn{
+        width: 160px;
+        height: 60px;
+        padding: 2.4rem;
+    }
+}
+
+
+@media screen and (min-width:1200px){
+    #section-b li{
+        width: 28%;
+        margin: 1% ;
+        display: inline-block
+        }
+    .contact{
+        width: 50%;
+        float: left;
+
+    }
+    .about{
+        width: 50%;
+        float: left;
+    }
+    html{
+        font-size: 9px;
+    }
+    .btn{
+        width: 25rem;
+        height: 65px;
+        padding: 1.7rem;
+
+    }       
+}
+
+    
+    
