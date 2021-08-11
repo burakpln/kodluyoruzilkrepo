@@ -193,7 +193,11 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   position: relative;
 }
 .mic a{
+<<<<<<< HEAD
   text-decoration: none;
+=======
+  text-decoration: ;
+>>>>>>> e09a00403c21eb1f1b72098d4f67396bc83208d9
 }
 
 .tooltip {
