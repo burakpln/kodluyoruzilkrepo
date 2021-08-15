@@ -1,0 +1,29 @@
+# [Patika.dev](patika.dev) - Frontend Developement Path - Assignment and Projects - Personal Learning Journal
+
+- ## HTML Assignment 1  
+    https://burakpln.github.io/kodluyoruzilkrepo/htmlOdev1/
+---
+- ## HTML Assignment 2 
+    https://burakpln.github.io/kodluyoruzilkrepo/htmlOdev2/
+---
+- ## HTML Assignment 3  
+    https://burakpln.github.io/kodluyoruzilkrepo/htmlOdev3/google.html
+
+    > A clone homepage of 1998's Google is made for the assignment.
+---
+- ## CSS Assignment 1  
+    https://burakpln.github.io/kodluyoruzilkrepo/cssOdev1/index.html 
+---
+- ## CSS Assignment 2  
+    https://burakpln.github.io/kodluyoruzilkrepo/cssOdev2/index.html
+    > A clone homepage of Google is made for the assignment.
+---
+- ## Bootstrap Assignment 1 
+    https://burakpln.github.io/kodluyoruzilkrepo/bootstrapOdev1/index.html
+
+    > Simple Music Shop page made with Bootstrap.
+---
+- ## Bootstrap Assignment 2  
+    https://burakpln.github.io/kodluyoruzilkrepo/bootstrapOdev2/
+
+    > For this assignment, [starting from this point](https://burakpln.github.io/kodluyoruzilkrepo/bootstrapOdev2/before), a basic instagram clone is made.
