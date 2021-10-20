@@ -32,3 +32,13 @@
     https://burakpln.github.io/kodluyoruzilkrepo/bootstrapOdev3/
 
     > As the third assignment, a [distorted clone](https://burakpln.github.io/kodluyoruzilkrepo/bootstrapOdev3/before/) of Linkedin is edited to a better version using Bootstrap.
+
+- ## Javascript Assignment 1
+    https://burakpln.github.io/kodluyoruzilkrepo/jsOdev1/
+
+    > This page greets you with your name and tells you the time and date.
+
+- ## Javascript Assignment 2 
+    https://burakpln.github.io/kodluyoruzilkrepo/jsOdev2/
+
+    > Simple to-do list 
